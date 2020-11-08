@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    background: blanchedalmond;
+    border-radius: 20px;
+    border: 2px;
+    width: 8%;
+    padding: 10px;
+    margin: 8px;
+}
